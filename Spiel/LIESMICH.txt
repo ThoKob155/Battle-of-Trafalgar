@@ -1,0 +1,8 @@
+Battle of Trafalgar (Version 10)
+
+Start: Terminal im Ordner oeffnen und  python3 battle_of_trafalgar.py  eingeben
+(oder die Datei in VS Code oeffnen und ausfuehren).
+
+Der Ordner 'sounds' (31 Dateien) muss neben battle_of_trafalgar.py liegen. Fehlt er, laeuft das Spiel ohne Ton.
+Ton: Mac nutzt afplay (eingebaut), Windows winsound (eingebaut; spielt nur einen Ton gleichzeitig).
+Der Schalter 'Sound: On/Off' ist oben rechts auf jedem Bildschirm (nur sichtbar, wenn Ton moeglich ist).
